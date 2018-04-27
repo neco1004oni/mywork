@@ -32,5 +32,5 @@ public class CollectionsEx {
 		
 		int index = Collections.binarySearch(myList, "아바타") + 1;
 		System.out.println("아바타는 " + index + "번째 요소 입니다.");
-	}
+	}//
 }
